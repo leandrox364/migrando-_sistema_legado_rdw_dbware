@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/11 12:32:16.000.893,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 14:09:13.000.629,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 14:23:27.000.063,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:34:15.000.162,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:35:08.000.876,C:\Projetos\Migração Legado\Server\UPrincipalServer.pas=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:35:08.000.876,C:\Projetos\Migração Legado\Server\UPrincipalServer.dfm=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/17 21:35:13.000.732,C:\Projetos\Migração Legado\Server\Server.dproj=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/17 21:38:05.000.611,=C:\Projetos\Migração Legado\Server\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:38:14.000.358,=C:\Projetos\Migração Legado\Server\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:39:29.000.428,C:\Projetos\Migração Legado\Server\UDtmRdw.pas=C:\Projetos\Migração Legado\Server\Unit1.pas</Transaction>
+    <Transaction>2022/01/17 21:39:29.000.428,C:\Projetos\Migração Legado\Server\UDtmRdw.dfm=C:\Projetos\Migração Legado\Server\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
